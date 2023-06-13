@@ -24,8 +24,8 @@ The analysis yielded several noteworthy findings:
 
 Regression Model: An XGB regression model was trained to predict income based on the analyzed variables. The model achieved a 39% accuracy in capturing the variance of income.
 
-# Results
+## Results
 The main findings of the code can be found at the post available https://medium.com/@frluenga/does-the-salary-determine-that-you-are-happiest-in-your-job-a8b2d2ce1982.
 
-Licensing, Authors, Acknowledgements
+## Licensing, Authors, Acknowledgements
 Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available https://www.kaggle.com/datasets/stackoverflow/so-survey-2017 . Otherwise, feel free to use the code here as you would like!
