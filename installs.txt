@@ -1,0 +1,12 @@
+# installs.txt
+
+To use the following Python libraries in your project, you can install them using the pip package manager. Open your terminal or command prompt and run the following commands:
+
+XGBoost
+scikit-learn (sklearn)
+janitor
+scipy
+matplotlib
+seaborn
+numpy
+pandas
